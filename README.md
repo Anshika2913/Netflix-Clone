@@ -28,3 +28,11 @@ A replica of a Netflix-inspired landing page featuring dynamic sections for feat
 - **CSS**: Styling and layout.
 - **JavaScript**: Adding interactivity (e.g., FAQ toggle functionality).
 - **Responsive Design**: Ensuring a seamless experience across devices.
+
+---
+
+## How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/netflix-clone.git
