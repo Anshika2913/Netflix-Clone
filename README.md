@@ -11,7 +11,7 @@ A replica of a Netflix-inspired landing page featuring dynamic sections for feat
       *Frequently Asked Questions with a toggle mechanism (can be enhanced with JavaScript for interactivity).
 4) Footer:
       *Links to important pages like Privacy Policy, Help Center, and Investor Relations.
-## Technologies Used
+## Technologies Used-
   *HTML: Structuring the content.
   *CSS: Styling and layout.
   *JavaScript: Adding interactivity (e.g., FAQ toggle functionality).
