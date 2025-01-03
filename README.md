@@ -2,14 +2,14 @@
 A replica of a Netflix-inspired landing page featuring dynamic sections for features, FAQs, and a visually appealing design. This project showcases web development skills using HTML, CSS, and basic JavaScript.
 ## Features-
 1) Dynamic Hero Section:
-      *Highlights Netflix’s core features.
-      *Input field for email and call-to-action button.
-2) Feature Sections:
+     *Highlights Netflix’s core features.
+     *Input field for email and call-to-action button.
+3) Feature Sections:
       *Details Netflix's TV, mobile, and streaming features.
       *Includes multimedia elements like videos and images.
-3) FAQ Section:
+5) FAQ Section:
       *Frequently Asked Questions with a toggle mechanism (can be enhanced with JavaScript for interactivity).
-4) Footer:
+6) Footer:
       *Links to important pages like Privacy Policy, Help Center, and Investor Relations.
 ## Technologies Used-
   *HTML: Structuring the content.
